@@ -3,7 +3,7 @@
 PROTS KHRYSTYNA AND LAPCHUK SOLOMIA
 
 The School Grades Management System is a desktop application for managing students, subjects, teachers, and grades in a school. The program is developed on the .NET platform using WPF for the graphical user interface. It enables tracking student performance, generating reports, and viewing educational achievement statistics without using a database, storing all data locally in files.
-
+ 
 The goal of this project is to facilitate the work of school staff with student data, automate the calculation of average grades, generate class rankings, and create student report cards in a convenient format. The program also allows for quick searching of specific students or subjects through its search functionality.
 
 ## Main Features
